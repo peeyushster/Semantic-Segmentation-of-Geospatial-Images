@@ -1,0 +1,12 @@
+{
+  "country": "ghana",
+  "bounding_box": [1.19347572310058,6.164918289126461,1.2079811094511002,6.183435513333402],
+  "zoom": 15,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoicGVleXVzaHN0ZXIiLCJhIjoiY2pueGZ5cWloMGNxczNrbWszNGR0bnlwdiJ9.R7Y2QZHxOM9T4ts337uhSQ",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}

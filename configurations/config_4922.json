@@ -1,0 +1,12 @@
+{
+  "country": "zambia",
+  "bounding_box": [30.378205765489998,-9.547905868279999,30.37975071788,-9.546678561439998],
+  "zoom": 15,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoicGVleXVzaHN0ZXIiLCJhIjoiY2pueGZ5cWloMGNxczNrbWszNGR0bnlwdiJ9.R7Y2QZHxOM9T4ts337uhSQ",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}

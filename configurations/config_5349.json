@@ -1,0 +1,12 @@
+{
+  "country": "uganda",
+  "bounding_box": [34.364879746739305,0.9887362502306593,34.4342598085152,1.02744400156237],
+  "zoom": 15,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoicGVleXVzaHN0ZXIiLCJhIjoiY2pueGZ5cWloMGNxczNrbWszNGR0bnlwdiJ9.R7Y2QZHxOM9T4ts337uhSQ",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}
