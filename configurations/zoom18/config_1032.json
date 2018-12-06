@@ -1,0 +1,12 @@
+{
+  "country": "indonesia",
+  "bounding_box": [121.28025819800001,-8.53027982599997,121.321325,-8.481608398999978],
+  "zoom": 18,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoibW1hcmluYXRlZCIsImEiOiJjam84em42ZW8wMWcwM3FvOXg1M2h3ZHk5In0.SF3axJcsBiFQzix4mPFf5w",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}

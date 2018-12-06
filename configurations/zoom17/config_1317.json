@@ -1,0 +1,12 @@
+{
+  "country": "brazil",
+  "bounding_box": [-43.504686,-20.281854,-43.379408,-20.17675],
+  "zoom": 17,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoibW1hcmluYXRlZCIsImEiOiJjam84em42ZW8wMWcwM3FvOXg1M2h3ZHk5In0.SF3axJcsBiFQzix4mPFf5w",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}
