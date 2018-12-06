@@ -1,0 +1,12 @@
+{
+  "country": "united_republic_of_tanzania",
+  "bounding_box": [33.03013485008,-8.975783453880013,33.06282113022,-8.94299961844],
+  "zoom": 18,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoibW1hcmluYXRlZCIsImEiOiJjam84em42ZW8wMWcwM3FvOXg1M2h3ZHk5In0.SF3axJcsBiFQzix4mPFf5w",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}

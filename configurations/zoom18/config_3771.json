@@ -1,0 +1,12 @@
+{
+  "country": "philippines",
+  "bounding_box": [124.804902076721,11.1949471601634,124.81483697891198,11.2045244703048],
+  "zoom": 18,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoibW1hcmluYXRlZCIsImEiOiJjam84em42ZW8wMWcwM3FvOXg1M2h3ZHk5In0.SF3axJcsBiFQzix4mPFf5w",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}

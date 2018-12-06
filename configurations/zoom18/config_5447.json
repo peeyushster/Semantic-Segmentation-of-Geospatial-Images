@@ -1,0 +1,12 @@
+{
+  "country": "bangladesh",
+  "bounding_box": [92.30886350173887,20.7475784577396,92.3486623745702,20.7952556449226],
+  "zoom": 18,
+  "classes": [
+    { "name": "Roads", "filter": ["has", "highway"] },
+    { "name": "Buildings", "filter": ["has", "building"] }
+  ],
+  "imagery": "http://a.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoibW1hcmluYXRlZCIsImEiOiJjam84em42ZW8wMWcwM3FvOXg1M2h3ZHk5In0.SF3axJcsBiFQzix4mPFf5w",
+  "background_ratio": 1,
+  "ml_type": "segmentation"
+}
