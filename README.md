@@ -20,3 +20,7 @@ The quality of labels is not that good. First, some tiles are unlabeled, some ha
 More predictions from fastai:
 
 ![preds_2](pictures/fastai_predictions.png)
+
+
+*Created by Marina Zavalina, Peeyush Jain and Serkan Karakulak in 2018-19.   
+Project for DS.GA.1001, NYU Center for Data Science.*
