@@ -6,7 +6,7 @@ The topic of this project is semantic segmentation  of  satellite  images. The g
 
 ## Data
 The quality of labels is not that good. First, some tiles are unlabeled, some have missing labels or are poorly labeled. Second, labels for some tiles are shifted +-5 pixels up/down, left/right.
- <!-- ![Screenshot](images/screenshot.png) ... -->
+![data](pictures/git_data.png)
 
 ## Results
 
@@ -14,3 +14,9 @@ The quality of labels is not that good. First, some tiles are unlabeled, some ha
 |---|---|---|---|
 | Fastai dynamic U-net  | 0.389  | 0.094  | 0.843  |
 | Tensorflow U-net (focal loss with weights)  | 0.381  | 0.000  | 0.861  |
+
+![preds_1](pictures/git_preds.png)
+
+More predictions from fastai:
+
+![preds_2](pictures/fastai_predictions.png)
